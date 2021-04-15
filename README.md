@@ -16,3 +16,5 @@ Repository of artwork and drawings for LED signs
 | 1 | 12" x 20" Clear Acrylic, Thick (Approx 1/4") | Glowforge | | [Glowforge](https://shop.glowforge.com/collections/acrylic/products/clear-acrylic-cast-transparent-glossy) |
 | 5 | M3 Screws | | | |
 | 5 | M3 Nuts | | | |
+| 1 | USB Power Supply |
+| 1 | USB A to Micro Cable | | | | 
