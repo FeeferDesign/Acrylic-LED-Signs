@@ -4,6 +4,7 @@ Repository of artwork and drawings for LED signs
 
 ## Project Inspiration
 [Maker.io Trinket and Neopixel Skateboard](https://www.digikey.com/en/maker/projects/trinket-neopixel-led-longboard/eb0944eb609e4c0495c77ce5f2b08028)
+
 [Arduino Project Hub](https://create.arduino.cc/projecthub/whimsy-makerspace/arduino-compatible-nano-neopixel-controller-6f0c4b)
 
 ## Equipment Used
